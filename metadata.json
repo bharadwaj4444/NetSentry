@@ -1,0 +1,6 @@
+{
+  "name": "NetSentry",
+  "description": "Real-time network connection monitor, alerts for newly opened connections, Wi-Fi & cellular traffic logs, granular filtering, and security audit export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

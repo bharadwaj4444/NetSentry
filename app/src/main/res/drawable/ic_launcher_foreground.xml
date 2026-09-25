@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Network Shield Silhouette -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,26 C64,26 73,31 77,36 C77,54 67,69 54,78 C41,69 31,54 31,36 C35,31 44,26 54,26 Z" />
+    <!-- Inner Dark Shield Plate for Contrast -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M54,30 C62,30 69,34 73,38 C73,52 64,65 54,73 C44,65 35,52 35,38 C39,34 46,30 54,30 Z" />
+    <!-- Radar / Network Waves & Central Node -->
+    <!-- Outer wave -->
+    <path
+        android:pathData="M42,46 C45,43 49,41 54,41 C59,41 63,43 66,46"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Mid wave -->
+    <path
+        android:pathData="M46,51 C48,49 51,48 54,48 C57,48 60,49 62,51"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Central pulse dot -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,58 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <!-- Pulse ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+</vector>
